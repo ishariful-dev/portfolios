@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ishariful-dev.github.io/portfolio/sitemap.xml
